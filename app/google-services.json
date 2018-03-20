@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "107907590638",
+    "firebase_url": "https://friendlychat-5d4ff.firebaseio.com",
+    "project_id": "friendlychat-5d4ff",
+    "storage_bucket": "friendlychat-5d4ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107907590638:android:91eecf4730fc920b",
+        "android_client_info": {
+          "package_name": "com.firebase.uidemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107907590638-p83lekfq759b95456m3ln9vvhvg9qulg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg0UAEA3vNINn9m2Ke4J1YeEP7RUt7as0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107907590638:android:e07e617d47e78711",
+        "android_client_info": {
+          "package_name": "com.suadahaji.android.firebasegoogleloginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107907590638-p83lekfq759b95456m3ln9vvhvg9qulg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg0UAEA3vNINn9m2Ke4J1YeEP7RUt7as0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
